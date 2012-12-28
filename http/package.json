@@ -1,0 +1,13 @@
+{
+  "name": "http",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Sample http server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Brian Link",
+  "license": "MIT"
+}
