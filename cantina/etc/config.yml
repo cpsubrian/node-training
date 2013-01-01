@@ -1,0 +1,3 @@
+title: 'Example Cantina App'
+http:
+  port: 7777
